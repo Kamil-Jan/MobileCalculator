@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MobileCalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:windowBackground">@color/gruvbox_dark</item>
+        <item name="android:textColor">@color/gruvbox_white</item>
+
+        <item name="colorPrimary">@color/gruvbox_gray2</item>
+        <item name="colorPrimaryVariant">@color/gruvbox_gray2</item>
+        <item name="colorOnPrimary">@color/gruvbox_gray3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

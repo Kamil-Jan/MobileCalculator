@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gruvbox_dark">#282828</color>
+    <color name="gruvbox_white">#ebdbb2</color>
+    <color name="gruvbox_gray1">#504945</color>
+    <color name="gruvbox_gray2">#665c54</color>
+    <color name="gruvbox_gray3">#bdae93</color>
+</resources>
